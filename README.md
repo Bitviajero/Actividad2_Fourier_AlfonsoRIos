@@ -2,7 +2,7 @@
 
 **Autor:** Alfonso Rios Belmares  
 **Materia:** Señales y Sistemas  
-**Fecha:** [Inserta la fecha de entrega]  
+**Fecha:** 25 de Octubre de 2026
 
 ## 🎯 Objetivo
 El propósito de este proyecto es simular y analizar señales elementales en el dominio del tiempo y su representación en el dominio de la frecuencia utilizando la Transformada Rápida de Fourier (FFT) en MATLAB. Asimismo, se verifican experimentalmente las propiedades de desplazamiento y escalamiento en el tiempo descritas en la teoría de Fourier.
